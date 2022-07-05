@@ -1,0 +1,1 @@
+# MsBuild_C_Shard_Base
